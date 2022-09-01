@@ -12,4 +12,7 @@ Output For 5x5 Maze :
 
 
  Output For 5x5 Maze :
+ 
+ ![output of 5x5](https://user-images.githubusercontent.com/89569367/187832655-b6c1dd0e-9967-4e13-95cc-6560efee5f35.jpg)
+
 
